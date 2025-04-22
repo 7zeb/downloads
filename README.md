@@ -1,4 +1,4 @@
-# 7Zeb Downloads
+# 7Zeb Download Center
 Download the 7Zeb open-source website's and other projects.
 
 
