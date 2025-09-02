@@ -18,4 +18,6 @@
 
 - Bootleg OSs (also because yes)
 
-- Project Seoirl 
+- Project Seoirl
+
+- PC Mod (based on NeoForge 1.21.1)
