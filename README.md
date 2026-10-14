@@ -1,3 +1,12 @@
+# Major Updates Coming Soon
+New things will include
+- NewUI 5 for the site
+- Downloads for NewUI 5
+- Downloads for Cam360
+- Downloads for ClipSnap
+- Bug Fixes
+Work will begin very soon on these new updates
+
 # 7Zeb Download Center
 ## Download the 7Zeb open-source website's and other projects.
 
